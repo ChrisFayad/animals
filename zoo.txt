@@ -1,3 +1,5 @@
 Tiger
 Wolf
 Giraffe
+Zebra
+Panda
